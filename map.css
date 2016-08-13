@@ -1,0 +1,136 @@
+/* Note to students: Some properties are given to you to fill out,
+others you can modify as they stand, and if you have time,
+there are definitely some properties you should add! */
+
+html {
+  height: 100%;
+}
+
+body {
+  width: auto;
+  height: 100%;
+}
+
+h1 {
+  background-color: red;
+  padding: 30px;
+  font-size: 30;
+  display: block;
+  text-align: center;
+  font-family: helvetica;
+  color: white;
+}
+
+nav {
+  display: block;
+  text-align: center;
+  padding: 10px;
+  font-size: 20;
+  font-family: helvetica;
+}
+
+nav ul {
+  padding: ;
+  float: left;
+  border-bottom: ;
+  list-style-type: none;
+}
+
+nav li {
+  float: left;
+}
+
+nav li a {
+  display: block;
+  height: 25px;
+  padding: 12px 18px 8px 18px;
+  vertical-align: middle;
+}
+
+a {
+  color: ;
+}
+
+section#map{
+  width: 963px;
+  height: 1247px;
+  background-image: url("http://4.bp.blogspot.com/-pAjo4VE0h0M/UYNH23wMwCI/AAAAAAAAAM4/zos8mBgoPdg/s1600/MTA-New-York-City-Subway.jpg");
+  display: inline-block;
+}
+
+section.artists{
+  width: 200px;
+  background-color: lightblue;
+  padding: 10px;
+  border-color: black;
+  border-width: 1px;
+  border-style: dotted;
+}
+
+#henri{
+  width: 200px;
+  background-color: lightblue;
+  padding: 10px;
+  border-color: black;
+  border-width: 1px;
+  border-style: dotted;
+  position: relative;
+  top: 600px;
+  left: 100px;
+}
+
+#kai{
+  width: 200px;
+  background-color: lightblue;
+  padding: 10px;
+  border-color: black;
+  border-width: 1px;
+  border-style: dotted;
+  position: relative;
+  top: 700px;
+  left: 450px;
+}
+
+#tish{
+  width: 200px;
+  background-color: lightblue;
+  padding: 10px;
+  border-color: black;
+  border-width: 1px;
+  border-style: dotted;
+  position: relative;
+  top: 5px;
+  left: 500px;
+}
+
+aside {
+  width: 17%;
+  float:left;
+  background-color: lightblue;
+  padding:;
+  min-height: 1247px;
+}
+
+h2 {
+  font-size: 25;
+  font-family: helvetica;
+  color: blue;
+  text-align: center;
+}
+
+img {
+  display: inline;
+  padding:
+}
+
+aside ul {
+  list-style-type: none;
+}
+
+footer {
+  width: 790px;
+  background-color:;
+  color:;
+  clear: both;
+  display: block;
+}
